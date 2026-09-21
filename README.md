@@ -42,12 +42,10 @@ Cada unidad tiene su carpeta en [`unidades/`](unidades/) con apuntes, prácticas
 ## 📝 Evaluación
 
 - Evaluación continua: requiere asistencia regular de al menos el **80 %** de la duración del módulo (Orden de 18 de septiembre de 2025).
-- Al acabar cada unidad hay una **prueba** (preguntas teóricas, procedimentales y un ejercicio práctico de instalación y configuración del servicio) y **actividades** prácticas, con al menos una entrega en PDF por unidad (portada, índice, desarrollo con capturas, conclusiones y bibliografía).
+- Al acabar cada unidad hay una **prueba** (preguntas teóricas, procedimentales y un ejercicio práctico de instalación y configuración del servicio).
 - La calificación de cada evaluación es la **media ponderada** de los RA trabajados (pesos en la tabla anterior); los RA no superados se recuperan en las evaluaciones finales.
 - Para aprobar hay que superar todos los RA trabajados durante el curso.
 - Pérdida de evaluación continua: prueba en junio sobre los RA pendientes.
-- **1.ª evaluación final:** a partir del 22 de mayo · **2.ª evaluación final:** a partir del 15 de junio _(confirmar fechas de 2026-27)_.
-- Las actividades se corrigen con una rúbrica común. Las notas se registran en el Cuaderno de Séneca.
 
 ## 🛠️ Software necesario
 
