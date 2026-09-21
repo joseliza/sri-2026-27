@@ -50,6 +50,7 @@ Cada unidad tiene su carpeta en [`unidades/`](unidades/) con apuntes, prácticas
 ## 🛠️ Software necesario
 
 - Virtualización: VirtualBox, Docker, Proxmox (clúster del centro)
+- 🐳 Contenedores: [guía básica de Docker](recursos/docker.md) (la usaremos en la mayoría de prácticas)
 - Sistemas operativos: Debian (versión actual), Windows 10/11 y Windows Server
 - Clientes: Filezilla, Thunderbird, Firefox, Chrome…
 
