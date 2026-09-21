@@ -14,7 +14,7 @@ IES Ciudad Jardín · Departamento de Informática
 
 | Día | Contenido | Material |
 |-----|-----------|----------|
-| _Lunes_ | _UT 1 · …_ | _enlace_ |
+| Martes 22/09 (8:15–10:15) | UT 1 · Presentación del módulo y cuestionario de diagnóstico inicial | _enlace_ |
 
 ## 🗂️ Planificación diaria
 

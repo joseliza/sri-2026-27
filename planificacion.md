@@ -4,7 +4,8 @@
 
 | Fecha | Sesión | UT | Contenido | Tarea / entrega | Material |
 |-------|:------:|----|-----------|-----------------|----------|
-| _dd/mm_ | 1 | 1 | Presentación del profesorado y del módulo. Prueba inicial (no puntúa) | | |
+| Mar 22/09 (8:15–9:15) | 1 | 1 | Presentación del profesorado y del módulo | | |
+| Mar 22/09 (9:15–10:15) | 2 | 1 | Cuestionario de diagnóstico inicial (no puntúa) | | |
 
 ## 2.º trimestre · UT 5 – 8 (+ UT 9 opcional)
 
