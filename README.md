@@ -6,19 +6,17 @@ IES Ciudad Jardín · Departamento de Informática
 
 - **Duración:** 175 horas anuales (5 horas semanales, compartidas con la formación en empresa en FP dual)
 - **Profesorado:** José Manuel Lizana Jiménez y María del Carmen González Labado
-- **Plataforma:** Moodle Centros ([enlace](https://educacionadistancia.juntadeandalucia.es/centros/sevilla/)) _(enlace al curso)_
-
-## 📅 Esta semana
-
-> _Actualiza esta sección cada semana o enlaza a la fila correspondiente de [`planificacion.md`](planificacion.md)._
-
-| Día | Contenido | Material |
-|-----|-----------|----------|
-| Martes 22/09 (8:15–10:15) | UT 1 · Presentación del módulo y cuestionario de diagnóstico inicial | _enlace_ |
+- **Plataforma:** Moodle Centros ([enlace](https://educacionadistancia.juntadeandalucia.es/centros/sevilla/course/view.php?id=7396))
 
 ## 🗂️ Planificación diaria
 
-Consulta el calendario completo en **[planificacion.md](planificacion.md)**: qué se ve cada día, qué hay que entregar y cuándo son las pruebas.
+## 1.er trimestre · UT 1 – 4
+
+| Fecha | Sesión | UT | Contenido | Tarea / entrega | Material |
+|-------|:------:|----|-----------|-----------------|----------|
+| Mar 22/09 (8:15–9:15) | 1 | 1 | Presentación del profesorado y del módulo | | |
+| Mar 22/09 (9:15–10:15) | 2 | 1 | Cuestionario de diagnóstico inicial (no puntúa) | | |
+| Mie 23/09 (13:45–14:45) | 3 | 1 | Repaso de conceptos de red e introducción a DHCP | | [El servidor DHCP](/unidades/ut-1-dhcp/1%20-%20Servidor%20DHCP.pdf) |
 
 ## 📚 Unidades de trabajo
 
