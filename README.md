@@ -17,6 +17,8 @@ IES Ciudad Jardín · Departamento de Informática
 | Mar 22/09 (8:15–9:15) | 1 | 1 | Presentación del profesorado y del módulo | | |
 | Mar 22/09 (9:15–10:15) | 2 | 1 | Cuestionario de diagnóstico inicial (no puntúa) | | |
 | Mie 23/09 (13:45–14:45) | 3 | 1 | Repaso de conceptos de red e introducción a DHCP | | [El servidor DHCP](/unidades/ut-1-dhcp/1%20-%20Servidor%20DHCP.pdf) |
+| Vie 25/09 (10:15–11:15) | 4 | 1 | Repaso de conceptos de red e introducción a DHCP  | Haremos ejercicios de subredes |  |
+| Vie 23/09 (11:45–12:45) | 5 | 1 | Introducción a DHCP | |  |
 
 ## 📚 Unidades de trabajo
 
