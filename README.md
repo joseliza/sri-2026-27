@@ -20,8 +20,10 @@ IES Ciudad Jardín · Departamento de Informática
 | Vie 25/09 (10:15–11:15) | 4 | 1 | Repaso de conceptos de red e introducción a DHCP  | Haremos ejercicios de subredes | [Guía VLSM](/unidades/ut-1-dhcp/vlsm_arbol_subredes_alumnado.pdf) |
 | Vie 23/09 (11:45–12:45) | 5 | 1 | Introducción a DHCP | |  |
 | Mar 28/09 (08:15–09:15) | 6 | 1 | Protocolo DHCP | |  |
-| Mar 29/09 (09:15–10:15) | 8 | 1 | Servicio DHCP en Debian | | [Servicio DHCP en Debian 12](/unidades/ut-1-dhcp/Linux_-_DHCP_Debian12.pdf) |
-| Mie 30/09 (13:45–14:45) | 7 | 1 | Servicio DHCP en Debian | Preparamos nuestra máquina debian de Proxmox | [Servicio DHCP en Debian 12](/unidades/ut-1-dhcp/Linux_-_DHCP_Debian12.pdf) |
+| Mar 29/09 (09:15–10:15) | 7 | 1 | Servicio DHCP en Debian | | [Servicio DHCP en Debian 12](/unidades/ut-1-dhcp/Linux_-_DHCP_Debian12.pdf) |
+| Mie 30/09 (13:45–14:45) | 8 | 1 | Servicio DHCP en Debian | Preparamos nuestra máquina debian de Proxmox | |
+| Vie 02/10 (10:15:11:15) | 9 | 1 | Servicio DHCP en Debian | Configuramos el servidor isc-dhcp-server | |
+| Vie 02/10 (11:45–12:45) | 10 | 1 | Servicio DHCP en Debian | Hacemos pruebas de concesión a nuestros clientes |  |
 
 ## 📚 Unidades de trabajo
 
