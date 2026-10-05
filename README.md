@@ -24,7 +24,8 @@ IES Ciudad Jardín · Departamento de Informática
 | Mie 30/09 (13:45–14:45) | 8 | 1 | Servicio DHCP en Debian | Preparamos nuestra máquina debian de Proxmox | |
 | Vie 02/10 (10:15:11:15) | 9 | 1 | Servicio DHCP en Debian | Configuramos el servidor isc-dhcp-server | |
 | Vie 02/10 (11:45–12:45) | 10 | 1 | Servicio DHCP en Debian | Hacemos pruebas de concesión a nuestros clientes |  |
-
+| Mar 06/10 (10:15:11:15) | 11 | 1 | Servicio DHCP en Debian | Configuramos IP fija para clientes Linux t Windows y hacemos pruebas desde cliente | |
+| Mar 06/10 (11:45–12:45) | 12 | 1 | Servicio DHCP en Debian | Actividades 7 (guardar captura para abrir con Wireshark) y 8 de los apuntes |  |
 ## 📚 Unidades de trabajo
 
 | Trim. | UT | Título | RA | Peso | Sesiones |
