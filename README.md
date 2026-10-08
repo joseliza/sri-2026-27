@@ -27,7 +27,7 @@ IES Ciudad Jardín · Departamento de Informática
 | Mar 06/10 (08:15:09:15) | 11 | 1 | Servicio DHCP en Debian | Configuramos IP fija para clientes Linux t Windows y hacemos pruebas desde cliente | |
 | Mar 06/10 (09:15–10:15) | 12 | 1 | Servicio DHCP en Debian | Actividades 7 (guardar captura para abrir con Wireshark) y 8 de los apuntes |  |
 | Mie 07/10 (13:45–14:45) | 13 | 1 | Servicio DHCP en Debian | Ejercicio Webmin | |
-| Vie 09/10 (10:15:11:15) | 14 | 1 | Servicio DHCP en Debian | Ejercicio Webmin | |
+| Vie 09/10 (10:15:11:15) | 14 | 1 | Becas OpenWebinars. Servicio DHCP en Debian | Ejercicio Webmin | |
 | Vie 09/10 (11:45–12:45) | 15 | 1 | Servicio DHCP en Debian | Ejercicio Webmin |  |
 
 
