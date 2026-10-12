@@ -29,6 +29,9 @@ IES Ciudad Jardín · Departamento de Informática
 | Mie 07/10 (13:45–14:45) | 13 | 1 | Servicio DHCP en Debian | Ejercicio Webmin | |
 | Vie 09/10 (10:15:11:15) | 14 | 1 | Becas OpenWebinars. Servicio DHCP en Debian | Ejercicio Webmin | |
 | Vie 09/10 (11:45–12:45) | 15 | 1 | Servicio DHCP en Debian | Ejercicio Webmin |  |
+| Mar 13/10 (08:15:09:15) | 16 | 1 | Servicio DHCP en Debian | Dejo tiempo para que hagáis el Reto IA 1. Clasificación de Tráfico y Uso de Pools en DHCP y planteéis dudas
+ | |
+| Mar 13/10 (09:15–10:15) | 17 | 1 | Servicio DHCP en Debian | Dejo tiempo para que hagáis el Reto IA 1. Clasificación de Tráfico y Uso de Pools en DHCP y planteéis dudas |  |
 
 
 ## 📚 Unidades de trabajo
