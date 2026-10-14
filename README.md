@@ -32,7 +32,7 @@ IES Ciudad Jardín · Departamento de Informática
 | Mar 13/10 (08:15:09:15) | 16 | 1 | Servicio DHCP en Debian | Dejo tiempo para que hagáis el Reto IA 1. Clasificación de Tráfico y Uso de Pools en DHCP y planteéis dudas
  | |
 | Mar 13/10 (09:15–10:15) | 17 | 1 | Servicio DHCP en Debian | Dejo tiempo para que hagáis el Reto IA 1. Clasificación de Tráfico y Uso de Pools en DHCP y planteéis dudas |  |
-| Mie 14/10 (13:45–14:45) | 1 | 2 | Servicio DNS | Comenzamos la teoría del servicio DNS | |
+| Mie 14/10 (13:45–14:45) | 18 | 1 | Servicio DHCP | Analizamos las cuestiones planteadas en el reto IA 1 y estudiamos los problemas de seguridad del servicio DHCP | [Infografía amenazas y mitigación en DHCP](/unidades/ut-1-dhcp/Infografía%20amenazas%20y%20mitigación%20en%20DHCP.jpeg) |
 
 
 ## 📚 Unidades de trabajo
