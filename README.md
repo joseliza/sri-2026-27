@@ -35,6 +35,9 @@ IES Ciudad Jardín · Departamento de Informática
 | Mie 14/10 (13:45–14:45) | 18 | 1 | Servicio DHCP | Analizamos las cuestiones planteadas en el reto IA 1 y estudiamos los problemas de seguridad del servicio DHCP | [Infografía amenazas y mitigación en DHCP](/unidades/ut-1-dhcp/Infografía%20amenazas%20y%20mitigación%20en%20DHCP.jpeg) |
 | Vie 16/10 (10:15:11:15) | 1 | 2 | Servicio DNS | Comanzamos la teoría de DNS| |
 | Vie 16/10 (11:45–12:45) | 2 | 2 | Servicio DNS | |  |
+| Mar 20/10 (08:15:09:15) | 19 | 1 | Servicio DHCP | Examen
+ | |
+| Mar 20/10 (09:15–10:15) | 20 | 1 | Servicio DHCP | Examen |  |
 
 
 ## 📚 Unidades de trabajo
