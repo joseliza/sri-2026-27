@@ -40,8 +40,8 @@ IES Ciudad Jardín · Departamento de Informática
 | Mie 21/10 (13:45–14:45) | 3 | 2 | Servicio DNS | Nombres de dominio | [Presentación nombres de dominio](/unidades/ut-2-dns/Nombres%20de%20dominio_alum.pdf) |
 | Vie 23/10 (10:15:11:15) | 4 | 2 | Servicio DNS | Servidores RAIZ| [Infografía Servidores Raiz](/unidades/ut-2-dns/infografia-servidores-raiz.pdf) <br /> [Infografía comandos dig y nslookup](/unidades/ut-2-dns/chuleta_dig_nslookup.pdf) |
 | Vie 23/10 (11:45–12:45) | 5 | 2 | Servicio DNS | | |
-| Mar 27/10 (08:15–09:15) | 6 | 2 | Servicio DNS | | [Infografía Bind9](/unidades/ut-2-dns/chuleta_bind9_debian12.pdf) |
-| Mar 27/10 (09:15–10:15) | 7 | 2 | Servicio DNS | | |
+| Mar 27/10 (08:15–09:15) | 6 | 2 | Servicio DNS | Linux: Servicio DNS con Bind 9 | [Infografía Bind9](/unidades/ut-2-dns/chuleta_bind9_debian12.pdf) |
+| Mar 27/10 (09:15–10:15) | 7 | 2 | Servicio DNS | Linux: Servicio DNS con Bind 9| |
 
 ## 📚 Unidades de trabajo
 
