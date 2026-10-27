@@ -42,6 +42,7 @@ IES Ciudad Jardín · Departamento de Informática
 | Vie 23/10 (11:45–12:45) | 5 | 2 | Servicio DNS | | |
 | Mar 27/10 (08:15–09:15) | 6 | 2 | Servicio DNS | Linux: Servicio DNS con Bind 9 | [Infografía Bind9](/unidades/ut-2-dns/chuleta_bind9_debian12.pdf) |
 | Mar 27/10 (09:15–10:15) | 7 | 2 | Servicio DNS | Linux: Servicio DNS con Bind 9| |
+| Mier 28/10 (13:45–14:45) | 8 | 2 | Servicio DNS | Sigo explicando cómo se configura el servicio DNS con Bind 9| |
 
 ## 📚 Unidades de trabajo
 
