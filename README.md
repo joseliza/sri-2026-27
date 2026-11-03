@@ -46,7 +46,8 @@ IES Ciudad Jardín · Departamento de Informática
 | Vie 30/10 (10:15:11:15) | 9 | 2 | Servicio DNS | Sigo explicando cómo se configura el servicio DNS con Bind 9| |
 | Vie 30/10 (11:45–12:45) | 10 | 2 | Servicio DNS | Sigo explicando cómo se configura el servicio DNS con Bind 9| |
 | Mar 03/11 (08:15–09:15) | 11 | 2 | Servicio DNS | Creáis y probáis servidor maestro configurando zona directa con Bind 9| |
-| Mar 03/11 (09:15–10:15) | 12 | 2 | Servicio DNS | Vemos estructura del archivo de zona directa de Bind 9| |
+| Mar 03/11 (09:15–10:15) | 12 | 2 | Servicio DNS | Creáis y probáis servidor maestro configurando zona directa con Bind 9| |
+| Mie 04/11 (13:45–14:45) | 13 | 2 | Servicio DNS | Vemos estructura del archivo de zona directa de Bind 9| [Infografía archivo zona directa Bind9](/unidades/ut-2-dns/infografia_zona_directa.pdf) |
 
 ## 📚 Unidades de trabajo
 
