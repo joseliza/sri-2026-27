@@ -48,6 +48,8 @@ IES Ciudad Jardín · Departamento de Informática
 | Mar 03/11 (08:15–09:15) | 11 | 2 | Servicio DNS | Creáis y probáis servidor maestro configurando zona directa con Bind 9| |
 | Mar 03/11 (09:15–10:15) | 12 | 2 | Servicio DNS | Creáis y probáis servidor maestro configurando zona directa con Bind 9| |
 | Mie 04/11 (13:45–14:45) | 13 | 2 | Servicio DNS | Vemos estructura del archivo de zona directa de Bind 9| [Infografía archivo zona directa Bind9](/unidades/ut-2-dns/infografia_zona_directa.pdf) |
+| Vie 06/11 (10:15:11:15) | 14 | 2 | Servicio DNS | Por qué la necesidad de zona inversa? Explico el archivo de configuración de zona inversa| [Infografía por qué la zona inversa?](/unidades/ut-2-dns/infografia_por_que_zona_inversa.pdf) <br /> [Infografía archivo zona inversa Bind9](/unidades/ut-2-dns/infografia_zona_inversa.pdf) |
+| Vie 06/11 (11:45–12:45) | 15 | 2 | Servicio DNS | Seguís haciendo el ejercicio de configuración del dominio "sri.com" | |
 
 ## 📚 Unidades de trabajo
 
