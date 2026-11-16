@@ -50,8 +50,8 @@ IES Ciudad Jardín · Departamento de Informática
 | Vie 06/11 (10:15–11:15) | 34 | 2 | Servicio DNS | Por qué la necesidad de zona inversa? Explico el archivo de configuración de zona inversa| [Infografía por qué la zona inversa?](/unidades/ut-2-dns/infografia_por_que_zona_inversa.pdf) <br /> [Infografía archivo zona inversa Bind9](/unidades/ut-2-dns/infografia_zona_inversa.pdf) |
 | Vie 06/11 (11:45–12:45) | 35 | 2 | Servicio DNS | Seguís haciendo el ejercicio de configuración del dominio "sri.com" | |
 | Mar 10/11 (08:15–10:15) | 36–37 | 2 | Servicio DNS | Terminar `sri.com`: zona inversa |  |
-| Vie 13/11 (11:45–12:45) | 38–39 | 2 | MX, CNAME y Reenviadores. Secundario y transferencia de zona | | [Laboratorio docker para transferencia de primario a secundario]() |
-| Mar 17/11 (08:15–10:15) | 40–41 | 2 | Hacéis ejercicio de secundario y transferencia de zona entre dos compañeros | | [Laboratorio docker para transferencia de primario a secundario]() |
+| Vie 13/11 (11:45–12:45) | 38–39 | 2 | MX, CNAME y Reenviadores. Secundario y transferencia de zona | | [Laboratorio docker para transferencia de primario a secundario](/unidades/ut-2-dns/laboratorio_dns.tar.gz) |
+| Mar 17/11 (08:15–10:15) | 40–41 | 2 | Hacéis la tarea 2.1 | | [Tarea 2.1 · Transferencia de zona: servidor DNS primario y secundario con Bind9](/unidades/ut-2-dns/Tarea2.1_Transferencia_zona_DNS.pdf) |
 
 
 ## 📚 Unidades de trabajo
