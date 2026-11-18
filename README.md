@@ -52,6 +52,7 @@ IES Ciudad Jardín · Departamento de Informática
 | Mar 10/11 (08:15–10:15) | 36–37 | 2 | Servicio DNS | Terminar `sri.com`: zona inversa |  |
 | Vie 13/11 (11:45–12:45) | 38–39 | 2 | MX, CNAME y Reenviadores. Secundario y transferencia de zona | | [Laboratorio docker para transferencia de primario a secundario](/unidades/ut-2-dns/laboratorio_dns.tar.gz) |
 | Mar 17/11 (08:15–10:15) | 40–41 | 2 | Hacéis la tarea 2.1 | | [Tarea 2.1 · Transferencia de zona: servidor DNS primario y secundario con Bind9](/unidades/ut-2-dns/Tarea2.1_Transferencia_zona_DNS.pdf) |
+| Mier 18/11 (13:45–14:45) | 41–42 | 2 | Termináis la tarea 2.1 | | |
 
 
 ## 📚 Unidades de trabajo
