@@ -11,7 +11,7 @@ IES Ciudad Jardín · Departamento de Informática
 
 ## 🗂️ Planificación diaria
 
-### 1.er trimestre · UT 1, 2, 4 y comienzo de UT 5
+### UT1 - Servicio DHCP
 
 | Fecha | Sesión | UT | Contenido | Tarea / entrega | Material |
 |-------|:------:|----|-----------|-----------------|----------|
@@ -37,6 +37,11 @@ IES Ciudad Jardín · Departamento de Informática
 | Vie 16/10 · 11:45‑12:45 | 20 | 2 | Servicio DNS |  |  |
 | Mar 20/10 · 08:15‑09:15 | 21 | 1 | Servicio DHCP | Examen |  |
 | Mar 20/10 · 09:15‑10:15 | 22 | 1 | Servicio DHCP | Examen |  |
+
+### UT2 - Servicio DNS
+
+| Fecha | Sesión | UT | Contenido | Tarea / entrega | Material |
+|-------|:------:|----|-----------|-----------------|----------|
 | Mié 21/10 · 13:45‑14:45 | 23 | 2 | Servicio DNS | Nombres de dominio | [Presentación nombres de dominio](/unidades/ut-2-dns/Nombres%20de%20dominio_alum.pdf) |
 | Vie 23/10 · 10:15‑11:15 | 24 | 2 | Servicio DNS | Servidores RAIZ | [Infografía comandos dig y nslookup](/unidades/ut-2-dns/chuleta_dig_nslookup.pdf) <br /> [Infografía Servidores Raiz](/unidades/ut-2-dns/infografia-servidores-raiz.pdf) |
 | Vie 23/10 · 11:45‑12:45 | 25 | 2 | Servicio DNS |  |  |
@@ -60,14 +65,18 @@ IES Ciudad Jardín · Departamento de Informática
 | Mié 18/11 · 13:45‑14:45 | 43 | 2 | Termináis la tarea 2.1 |  |  |
 | Vie 20/11 · 10:15‑11:15 | 44 | 2 | Os propongo la tarea de ampliación 2.2 |  | [Tarea 2.2 - DNS dinamico](/unidades/ut-2-dns/Tarea%202.2%20-%20DNS%20dinamico.pdf) |
 | Vie 20/11 · 11:45‑12:45 | 45 | 2 |  |  |  |
+| Mar 24/11 · 08:15‑09:15 | 46 | 4 |  |  |  |
+| Mar 24/11 · 09:15‑10:15 | 47 | 4 |  |  |  |
+| Mié 25/11 · 13:45‑14:45 | 48 | 2 | Examen teórico UT2 - DNS |  |  |
+| Vie 27/11 · 10:15‑11:15 | 49 | 4 |  |  |  |
+| Vie 27/11 · 11:45‑12:45 | 50 | 4 |  |  |  |
 
 ## 📚 Unidades de trabajo
 
 | Ev. | UT | Título | Sesiones | Estado |
 |-----|----|--------|:--------:|:------:|
-| 1.ª | 1 | Servicio de asignación dinámica de direcciones (DHCP) | 10 | ✅ |
-| 1.ª | 2 | Sistema de nombres de dominio (DNS) | 20 | ✅ |
-| 1.ª | 3 | Servicio de acceso remoto | 4 | ⏳ |
+| 1.ª | 1 | Servicio de asignación dinámica de direcciones (DHCP) | 20 | ✅ |
+| 1.ª | 2 | Sistema de nombres de dominio (DNS) | 25 | ✅ |
 | 1.ª | 4 | Servicio de transferencia de ficheros (FTP) | 14 | ⏳ |
 | 1.ª | 5 | Servicio web HTTP/S | 22 | ⏳ |
 | 2.ª | 6 | Servicios de correo electrónico | 18 | ⏳ |
@@ -79,14 +88,6 @@ IES Ciudad Jardín · Departamento de Informática
 | | | **Total** | **175** | |
 
 _Estado: ✅ terminada · 🔄 en curso · ⏳ pendiente. Las sesiones de cada unidad son una previsión y pueden variar durante el curso._
-
-## 📝 Evaluación
-
-- Evaluación continua: requiere asistencia regular de al menos el **80 %** de la duración del módulo (Orden de 18 de septiembre de 2025).
-- Al acabar cada unidad hay una **prueba** (preguntas teóricas, procedimentales y un ejercicio práctico de instalación y configuración del servicio).
-- La calificación de cada evaluación es la **media ponderada** de los RA trabajados (pesos en la tabla anterior); los RA no superados se recuperan en las evaluaciones finales.
-- Para aprobar hay que superar todos los RA trabajados durante el curso.
-- Pérdida de evaluación continua: prueba en junio sobre los RA pendientes.
 
 ## 🛠️ Software necesario
 
@@ -104,9 +105,3 @@ _Estado: ✅ terminada · 🔄 en curso · ⏳ pendiente. Las sesiones de cada u
 
 - José Manuel Lizana Jiménez: joseliza@iesciudadjardin.com
 - María del Carmen González Labado: maricarmengl@iesciudadjardin.com
-
-_(Horario de tutoría, canal de dudas.)_
-
----
-
-_Programación didáctica completa: solicítala al profesorado o consulta el Departamento de Informática._
