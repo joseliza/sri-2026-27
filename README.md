@@ -75,6 +75,11 @@ IES Ciudad Jardín · Departamento de Informática
 | Mié 25/11 · 13:45‑14:45 | 48 | 2 | Examen teórico UT2 - DNS |  |  |
 | Vie 27/11 · 10:15‑11:15 | 49 | 4 |  |  |  |
 | Vie 27/11 · 11:45‑12:45 | 50 | 4 |  |  |  |
+| Mar 01/12 · 08:15‑09:15 | 51 | 4 |  |  |  |
+| Mar 01/12 · 09:15‑10:15 | 52 | 4 |  |  |  |
+| Mié 02/12 · 13:45‑14:45 | 53 | 2 | Examen práctico UT2 - DNS |  |  |
+| Vie 04/12 · 10:15‑11:15 | 54 | 4 |  |  |  |
+| Vie 04/12 · 11:45‑12:45 | 55 | 4 |  |  |  |
 
 ## 📚 Unidades de trabajo
 
